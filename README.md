@@ -1,6 +1,12 @@
-# github-gist-enhanced-search
+<p align="center">
+<img width="200" height="200" alt="ghgehs" src="https://github.com/user-attachments/assets/03aa2ef7-d034-41f3-825b-9187468c91f6" />
+<h1 align="center">GitHub Gist Enhanced Search</h1>
+</p>
 
-Chrome extension to search your gists with a GitHub-style centered search overlay and qualifier suggestions.
+A Chrome extension to search your gists with a GitHub-style centered search overlay and qualifier suggestions.
+
+<img width="1280" height="800" alt="ss1" src="https://github.com/user-attachments/assets/d4599d40-395a-4f69-b9d0-f29ca0620d8f" />
+
 
 ## What it does
 
