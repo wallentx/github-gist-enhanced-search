@@ -24,7 +24,7 @@
     "*.{css,json,md,yml,yaml}": "prettier --write"
   },
   "devDependencies": {
-    "@eslint/js": "^9.25.1",
+    "@eslint/js": "^10.0.1",
     "@playwright/test": "^1.56.0",
     "eslint": "^9.25.1",
     "globals": "^16.0.0",
