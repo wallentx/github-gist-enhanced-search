@@ -51,7 +51,7 @@ jobs:
 
       - name: Publish to Chrome Web Store
         if: ${{ env.CWS_CLIENT_ID != '' && env.CWS_CLIENT_SECRET != '' && env.CWS_REFRESH_TOKEN != '' && env.CWS_EXTENSION_ID != '' }}
-        uses: puzzlers-labs/chrome-webstore-publish@v1.2.5
+        uses: puzzlers-labs/chrome-webstore-publish@v1.3.1
         with:
           mode: publish
           extension_id: ${{ env.CWS_EXTENSION_ID }}
